@@ -1,4 +1,4 @@
 *.zip
-/BERT-Stock-Prediction-Using-NLP-master.DS_Store
+.DS_Store
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
